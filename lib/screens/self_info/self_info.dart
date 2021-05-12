@@ -67,7 +67,7 @@ class _SelfInfoState extends State<SelfInfo> {
                     SizedBox(
                       width: 10,
                     ),
-                    Text("guyxdz@gmail.com"),
+                    Text("abc@abc.com"),
                   ],
                 ),
               ),
